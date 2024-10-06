@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Multimodal Intelligent Perception Computing Research Group of Fuzhou university"
+description              : "The Multimodal Intelligent Perception Computing Research Group of Fuzhou University is affiliated with the School of Computer and Big Data of Fuzhou University. It was co founded by master's supervisors Weng Qian and Lin Jiawen, focusing on remote sensing multimodal information and medical ophthalmic image knowledge mining. It hopes to exchange and learn from peers and scholars. "
+repository               : "Multimodal-AI-Group/Multimodal-AI-Group.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Qian Weng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Fuzhou University"
+  location         : "Fujian, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=YK06_mQAAAAJ"
+  email            : "fzuwq@fzu.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Qian-Weng"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Multimodal-AI-Group"
   google_plus      :
   keybase          :
   instagram        :
