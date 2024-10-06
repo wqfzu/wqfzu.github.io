@@ -7,9 +7,10 @@
 
 # Site Settings
 title                    : "Multimodal Intelligent Perception Computing Research Group of Fuzhou university"
-description              : "The Multimodal Intelligent Perception Computing Research Group of Fuzhou University is affiliated with the School of Computer and Big Data of Fuzhou University. It was co founded by master's supervisors Weng Qian and Lin Jiawen, focusing on remote sensing multimodal information and medical ophthalmic image knowledge mining. It hopes to exchange and learn from peers and scholars. "
+description              : "Graduated from Fuzhou University in July 2006 with a degree in engineering./n Graduated from Fuzhou University in March 2009 with a Master's degree in Engineering./n Graduated from Fuzhou University in June 2019 with a PhD in Management./n My research interests include multimodal remote sensing image fusion, computer vision, and audio enhancement. My research interests include multimodal remote sensing image fusion, computer vision, and audio enhancement. "
 repository               : "Multimodal-AI-Group/Multimodal-AI-Group.github.io"
 google_scholar_stats_use_cdn : true
+# The Multimodal Intelligent Perception Computing Research Group of Fuzhou University is affiliated with the School of Computer and Big Data of Fuzhou University. It was co founded by master's supervisors Weng Qian and Lin Jiawen, focusing on remote sensing multimodal information and medical ophthalmic image knowledge mining. It hopes to exchange and learn from peers and scholars.
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
