@@ -25,7 +25,7 @@ I graduated with a Master's degree in Computer Applications from the School of M
 
 My research interests include intelligent interpretation of remote sensing images and computer vision. I have published over 10 papers in well-known national remote sensing journals such as JSTARS and IJRSL with total <a href='https://scholar.google.com/citations?user=YK06_mQAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a>.
 
-Two of the graduate students I have supervised have received excellent graduate thesis awards. We can recruit three professional graduate students and one academic graduate student each year. If you are interested in pursuing graduate studies at the School of Computer and Big Data, Fuzhou University, please contact me via email.
+Two of the graduate students I have supervised have received excellent graduate thesis awards. I can recruit three professional graduate students and one academic graduate student each year. If you are interested in pursuing graduate studies at the School of Computer and Big Data, Fuzhou University, please contact me via email.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
