@@ -17,10 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I work at Colleage of Computer Science and Big Data, Fuzhou University as associate professor now in Fuzhou, Fujian Province.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently engaged in research on Computer Vision, Multimodal Remote Sensing Images, and Speech Enhancement. If you are seeking any form of academic collaboration, please feel free to email me at any time fzuwq@fzu.edu.cn.
 
+I graduated with a Master's degree in Computer Applications from the School of Mathematics and Computer Science at Fuzhou University in 2006. Graduated from the School of Economics and Management, Fuzhou University in 2009 with a PhD in Electronic Government and Regional Resource Management.
+
+My research interests include intelligent interpretation of remote sensing images and computer vision. I have published over 10 papers in well-known national remote sensing journals such as JSTARS and IJRSL with total <a href='https://scholar.google.com/citations?user=YK06_mQAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a>.
+
+Two of the graduate students I have supervised have received excellent graduate thesis awards. We can recruit three professional graduate students and one academic graduate student each year. If you are interested in pursuing graduate studies at the School of Computer and Big Data, Fuzhou University, please contact me via email.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
