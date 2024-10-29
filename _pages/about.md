@@ -28,17 +28,17 @@ My research interests include intelligent interpretation of remote sensing image
 Two of the graduate students I have supervised have received excellent graduate thesis awards. I can recruit three professional graduate students and one academic graduate student each year. If you are interested in pursuing graduate studies at the School of Computer and Big Data, Fuzhou University, please contact me via email.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉  Lin Yifeng's paper "BFRNet: Bimodal Fusion and Rectification Network for Remote Sensing Semantic Segmentation" will be showcased as a poster at The 7th Chinese Conference on Pattern Recognition and Computer Vision PRCV 2024. 
+- *2024.06*: &nbsp;🎉🎉 Master's student Lin Yifeng's paper "BFRNet: Bimodal Fusion and Rectification Network for Remote Sensing Semantic Segmentation" has been accepted by The 7th Chinese Conference on Pattern Recognition and Computer Vision PRCV 2024. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ARE-Net: An Improved Interactive Model for Accurate Building Extraction in High-Resolution Remote Sensing Imagery](https://www.mdpi.com/2072-4292/15/18/4457)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qian Weng**, Qin Wang, Yifeng Lin and Jiawen Lin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,12 +52,9 @@ Two of the graduate students I have supervised have received excellent graduate 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.09 - 2019.03 *, PhD, Electronic Government and Regional Resource Management, College of Economics and Management, Fuzhou University. 
+- *2006.09 - 2009.03*, Master, Computer Application Technology, College of Mathematics and Computer Science, Fuzhou university.
+- *2002.09 - 2006.06*, Bachelor, Computer Science and Technology, College of Mathematics and Computer Science, Fuzhou university.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2009.03 - now*, [Fuzhou university](https://www.fzu.edu.cn/), Fuzhou, Fujian, China.
